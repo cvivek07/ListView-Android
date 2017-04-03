@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\starwars.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-xhdpi\\starwars.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\batman.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-xhdpi\\batman.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\noah.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-xhdpi\\noah.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thegreatbeauty.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-xhdpi\\thegreatbeauty.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bc.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-xhdpi\\bc.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\accident.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-xhdpi\\accident.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\enemy.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-xhdpi\\enemy.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\interstellar.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-xhdpi\\interstellar.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\noahh.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-xhdpi\\noahh.jpg"
+    }
+]

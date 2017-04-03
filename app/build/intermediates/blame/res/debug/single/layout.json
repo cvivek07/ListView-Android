@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\singlerow.xml",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\layout\\singlerow.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

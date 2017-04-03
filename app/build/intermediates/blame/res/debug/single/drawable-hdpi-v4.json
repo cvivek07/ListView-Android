@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\enemy.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-hdpi\\enemy.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\accident.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-hdpi\\accident.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bc.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-hdpi\\bc.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thegreatbeauty.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-hdpi\\thegreatbeauty.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\batman.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-hdpi\\batman.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\noahh.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-hdpi\\noahh.jpg"
+    },
+    {
+        "merged": "D:\\Android Projects\\ListView-Custom-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\interstellar.jpg",
+        "source": "D:\\Android Projects\\ListView-Custom-master\\app\\src\\main\\res\\drawable-hdpi\\interstellar.jpg"
+    }
+]
